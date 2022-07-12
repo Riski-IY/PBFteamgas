@@ -56,11 +56,6 @@ video {
 	margin-top: 25px;
 	color: orange;
 }
-.carousel-caption h6 {
-	font-size: 16px;
-	letter-spacing: 2px;
-	margin-top: 25px;
-}
 .carousel-caption p {
 	width: 50%;
 	margin: auto;
@@ -96,9 +91,6 @@ video {
 	}
 	.carousel-caption h5 {
 		font-size: 16px
-	}
-	.carousel-caption h6 {
-		font-size: 6px
 	}
 	.carousel-caption a {
 		padding: 10px 15px;
